@@ -1,3 +1,3 @@
-# LibreLand Community
+# Libreland Community
 
-LibreLand is a community organization attempting to preserve the now defunct VR game Anyland.
+Libreland is a community organization attempting to preserve the now defunct VR game Anyland.
